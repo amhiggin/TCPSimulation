@@ -1,4 +1,6 @@
 # README #
 
-This is a TCP socket program which can be run locally, dealing with intentional pseudorandom packet corruption etc.
-Originally developed Feb 2016 and not pushed to Bitbucket until October 2017.
+TCP protocol simulation, which handles intentional pseudorandom packet corruption.
+
+
+<i>Originally developed Feb 2016 and not pushed to Bitbucket until October 2017.</i>
